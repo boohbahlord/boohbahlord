@@ -1,4 +1,14 @@
-## Hi there 👋
+## My plan is to make a game by myself or with anyone wanting to help make changes to it that I am close to. I want to learn Python first for this project. It will be an RPG style game that I hope to make open world. The basic structure is a tile system, text output for info, stats like health points, movement, and combat. It will eventually have dialog trees as well. I haven't decided the setting or skin of the game, since I will be attempting to make its skeleton first. How much I can work on this will depend on my schedule with school, where sometimes I will be busy with studying or homework, such as weeks before final exams. This is a passion project, esxersise for my programming, and for a game I want to play. My image of the game is again, an open world game with real consequences that can hopefully ripple through a world the player wants to explore, one with basic principles that house the many kinds of particular items, enemies, NPCs, rules, or social systems.
+
+## One long term goal of mine is to include pixel art for items, tiles, enemies, NPCs, or anything else in game. I want the player to be visible in a pixelated box that shows the player and their state, with a world written into text rather than shown maybe. I want the world to be filled with populated towns, cites, and nature with wildlife. I hope the game to be immersive and have very interesting kind of enemies or systems. The world should also feel hostile and difficult. I like the idea that each character made has only one life, and you have to keep them alive in order to explore the world, which gives the game weight. It might be fantasy, sci-fi, apocalyptic, or even modern; I don't know. The combat might be based off of dice rolls, to make the combat something that I wish to play. Enemies are creative, sometimes tricky, and impactful.
+
+## One simple principle for development:
+## 1. Show the current state (where you are, your HP, what’s around).
+## 2. Get input.
+## 3. Change the state based on that input.
+## 4. Go back to step 1.
+
+## I love my girlfriend.
 
 <!--
 **boohbahlord/boohbahlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
